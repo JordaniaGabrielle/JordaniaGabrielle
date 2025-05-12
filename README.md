@@ -1,16 +1,14 @@
-## Hi there 👋
+#
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8784FF&width=435&lines=HI%2C+WELCOME+!+!+!;My+name+is+Jord%C3%A2nia+Gabrielle)](https://git.io/typing-svg)
 
-<!--
-**JordaniaGabrielle/JordaniaGabrielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi  
+🚀 Participante do programa da [PretaLab](https://www.pretalab.com/) Ciclo 13 - IA  
+💜 Apaixonada por tecnologia, com foco especial na área de **dados**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jordaniagabrielle&show_icons=true&theme=blue_navy#gh-dark-mode-only)](https://github.com/jordaniagabrielle/github-readme-stats#gh-dark-mode-only)
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jordaniagabrielle&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jordaniagabrielle/github-readme-stats#gh-light-mode-only)
