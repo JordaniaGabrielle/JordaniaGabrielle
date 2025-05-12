@@ -5,6 +5,8 @@
 🚀 Participante do programa da [PretaLab](https://www.pretalab.com/) Ciclo 13 - IA  
 💜 Apaixonada por tecnologia, com foco especial na área de **dados**  
 
+aaa
+
 
 
 
