@@ -1,13 +1,15 @@
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8784FF&width=435&lines=HI%2C+WELCOME+!+!+!;My+name+is+Jord%C3%A2nia+Gabrielle)](https://git.io/typing-svg)
 
-<div style="display: flex; align-items: center;">
-    <p style="margin-right: 15px;">🎓 Estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi  
-🚀 Participante do programa da [PretaLab](https://www.pretalab.com/) Ciclo 13 - IA  
-💜 Apaixonada por tecnologia, com foco especial na área de **dados**  </p>
-    <img src="![minha_imagem](C:\Users\peter\Documents\MeusProjetos\JordaniaGabrielle\imagem\projetogithubjordaniagabrielle.png)" alt="Minha Imagem" width="150">
-</div>
-
+<table style="border: none;">
+  <tr>
+    <td style="border: none; padding: 0;">🎓 Estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi <br>
+    🚀 Participante do programa da <a href="https://www.pretalab.com/">PretaLab</a> Ciclo 13 - IA <br>
+    💜 Apaixonada por tecnologia, com foco especial na área de <strong>dados</strong>
+    </td>
+    <td style="border: none; padding: 0;"><img src="imagem/projetogithubjordaniagabrielle.png" alt="Minha Imagem" width="150"></td>
+  </tr>
+</table>
 
 
 
