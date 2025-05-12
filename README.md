@@ -14,9 +14,82 @@
     </td>
   </tr>
 </table>
+<br/>
+
+
+### :books: Languages and Technologies 
+<img
+align="left"
+alt="Python"
+title="Python"
+width="40px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  
+/>
+<img
+align="left"
+alt="Jupyter"
+title="Jupyter"
+width="40px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
+/>
+<img
+align="left"
+alt="VScode"
+title="VScode"
+width="40px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<img
+align="left"
+alt="Git"
+title="Git"
+width="40px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+align="left"
+alt="GitHub"
+title="Github"
+width="40px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+<img
+align="left"
+alt="Pycharm"
+title="Pycharm"
+width="40px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+/>
+<img
+align="left"
+alt="Anaconda"
+title="Anaconda"
+width="40px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
+/>
+<img
+align="left"
+alt="Numpy"
+title="Numpy"
+width="40px"
+style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
+/>
 
 
 
+
+<br/>
+<br/>
+
+### Estatísticas
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jordaniagabrielle&show_icons=true&theme=blue_navy#gh-dark-mode-only)](https://github.com/jordaniagabrielle/github-readme-stats#gh-dark-mode-only)
 
