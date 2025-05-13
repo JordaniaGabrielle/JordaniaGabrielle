@@ -3,10 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8784FF&width=435&lines=HI%2C+WELCOME+!+!+!;My+name+is+Jord%C3%A2nia+Gabrielle)](https://git.io/typing-svg)
 
-<img src="octocat.gif" alt="octocat" width="50" />
 </div>
-
-
 
 <table style="width:100%; border: none;">
   <tr>
