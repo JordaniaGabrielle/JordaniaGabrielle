@@ -1,6 +1,7 @@
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8784FF&width=435&lines=HI%2C+WELCOME+!+!+!;My+name+is+Jord%C3%A2nia+Gabrielle)](https://git.io/typing-svg)
-#
+
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" style="filter: hue-rotate(30deg); animation: colorShift 3s infinite alternate ease-in-out;" /> 
 
 <table style="width:100%; border: none;">
   <tr>
@@ -15,9 +16,10 @@
   </tr>
 </table>
 <br/>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" style="filter: hue-rotate(30deg); animation: colorShift 3s infinite alternate ease-in-out;" /> 
 
+<h2><a "technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Languages and Technologies</h2>
 
-### :books: Languages and Technologies 
 <img
 align="left"
 alt="Python"
@@ -83,14 +85,14 @@ style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
 />
 
-
-
-
 <br/>
 <br/>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" style="filter: hue-rotate(30deg); animation: colorShift 3s infinite alternate ease-in-out;" /> 
 
-### Estatísticas
+<h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">Estatísticas</h2>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jordaniagabrielle&show_icons=true&theme=blue_navy#gh-dark-mode-only)](https://github.com/jordaniagabrielle/github-readme-stats#gh-dark-mode-only)
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jordaniagabrielle&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jordaniagabrielle/github-readme-stats#gh-light-mode-only)
+
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" style="filter: hue-rotate(30deg); animation: colorShift 3s infinite alternate ease-in-out;" /> 
