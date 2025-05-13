@@ -22,7 +22,7 @@
 </table>
 <br/>
 
-<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" style="filter: hue-rotate(30deg); animation: colorShift 3s infinite alternate ease-in-out;" /> 
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp" width="100%" style="filter: hue-rotate(30deg); animation: colorShift 3s infinite alternate ease-in-out;" /> 
 
 
 <h2><a "technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Languages and Technologies</h2>
@@ -103,7 +103,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-origi
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jordaniagabrielle&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jordaniagabrielle/github-readme-stats#gh-light-mode-only)
 
-<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" width="100%" style="filter: hue-rotate(30deg); animation: colorShift 3s infinite alternate ease-in-out;" /> 
-
+<img src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp" width="100%" style="filter: hue-rotate(30deg); animation: colorShift 3s infinite alternate ease-in-out;" /> 
 
 
