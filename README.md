@@ -14,7 +14,7 @@
       💜 Apaixonada por tecnologia, com foco especial na área de <strong>dados</strong>
     </td>
     <td style="width:30%; border: none;">
-      <img src="imagem/projetogithubjordaniagabrielle.png" alt="Minha Imagem" width="320">
+      <img src="![alt text](imagemheadgithubjordaniagabrielle.jpg)" alt="Minha Imagem" width="320">
     </td>
   </tr>
 </table>
