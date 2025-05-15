@@ -9,12 +9,12 @@
 <table style="width:100%; border: none;">
   <tr>
     <td style="width:70%; border: none;">
-      🎓 Estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi <br>
-      🚀 Participante do programa da <a href="https://www.pretalab.com/">PretaLab</a> Ciclo 13 - IA <br>
+      🎓 Estudante de Análise e Desenvolvimento de Sistemas na Uniasselvi <br> <br> <br> <br>
+      🚀 Participante do programa da <a href="https://www.pretalab.com/">PretaLab</a> Ciclo 13 - IA <br> <br> <br> <br>
       💜 Apaixonada por tecnologia, com foco especial na área de <strong>dados</strong>
     </td>
     <td style="width:30%; border: none;">
-      <img src="![alt text](imagemheadgithubjordaniagabrielle.jpg)" alt="Minha Imagem" width="320">
+      <img src="https://raw.githubusercontent.com/JordaniaGabrielle/JordaniaGabrielle/main/imagemheadgithubjordaniagabrielle.jpg">
     </td>
   </tr>
 </table>
